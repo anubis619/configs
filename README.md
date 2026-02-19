@@ -26,5 +26,5 @@ git clone https://github.com/anubis619/configs.git
 cd configs
 ```
 
-
+## License
 You’re free to use these configuration files for personal use.
